@@ -1,0 +1,21 @@
+{
+  "name": "crud_express",
+  "version": "1.0.0",
+  "description": "Mi primer CRUD en express",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "express",
+    "nodejs",
+    "backend"
+  ],
+  "author": "Salvador CT",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
