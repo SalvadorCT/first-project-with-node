@@ -110,6 +110,10 @@ servidor.get("/buscar", (req, res) => {
     });
 });
 
+// TODO:
+// /buscar?nombre=Eduardo&apellido=De Rivero&correo=ederiveroman@gmail.com
+
+
 servidor.listen(PORT, () => {
     console.log(`Servidor escuchando en el puerto ${PORT}`);
 });
