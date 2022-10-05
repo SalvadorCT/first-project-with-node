@@ -1,0 +1,8 @@
+{
+    "Titulo": "Aprende node.js",
+    "nombre": "Salvador",
+    "temas": ["node.js", "javascript", "programacion"],
+    "paginas": 200,
+    "numVistas":123321,
+    "esPublico": true
+}
