@@ -14,4 +14,20 @@
 
 ---
 
+1. Para instalar express (lo veras en dependencies en package.json)
 
+```
+npm install express
+```
+
+2. Si deseas instalar una version especifica de express
+
+```
+npm install express@<version>
+```
+
+3. Para desinstalar un paquete:
+
+```
+npm uninstall <nombre del paquete>
+```

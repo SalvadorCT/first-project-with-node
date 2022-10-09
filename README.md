@@ -20,4 +20,8 @@ git checkout <nombre_rama>
 
 Y así tendras acceso al contenido de este repo.
 
+---
+
+⚡ El archivo 09-tabla-bases-node es una mini app de consola que muestra la Tabla de multiplicar.
+
 ## Gracias
