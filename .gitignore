@@ -173,3 +173,4 @@ entorno_*
 archivos_staticos/
 
 node_modules/
+09-tabla-bases-node/salida/*.txt
